@@ -29,10 +29,10 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 - Hollow spacers aren't mandatory, they are only used to facilitate installation.
 - Inserts must be printed in CF/GF filament with HDT ≥ 110°C, such as, annealed PET-CF, PCPBTGF, etc.
 
-### Vendors
 
 ![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
 
+### Vendors
 
 Check if our partners have Carbonara available:
 
