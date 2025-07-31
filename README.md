@@ -32,6 +32,8 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 ### Vendors
 
 ![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
+
+
 Check if our partners have Carbonara available:
 
 > **[3DKATTEN](https://3dkatten.se/)** – Europe  
