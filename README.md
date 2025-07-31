@@ -29,8 +29,7 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 - Hollow spacers aren't mandatory, they are only used to facilitate installation.
 - Inserts must be printed in CF/GF filament with HDT ≥ 110°C, such as, annealed PET-CF, PCPBTGF, etc.
 
-
-![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
+![Insert](https://media.printables.com//media/prints/1327701/rich_content/ffe58755-4667-4502-9c28-17a57cd5abeb/thumbs/inside/1920x1440/png/image.webp)
 
 ### Vendors
 
@@ -59,6 +58,7 @@ For the incredible mounting inserts
 **Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1), [Printables](https://www.printables.com/model/1327701-carbonara-lightweight-cf-tube)  
 Creator of the Carbonara project
 
+![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
 
 
 
