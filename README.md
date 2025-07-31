@@ -43,7 +43,11 @@ Check if our partners have Carbonara available:
 > **[DREMC](https://store.dremc.com.au/)** – Australia  
 > **[West3D](https://west3d.com/)** – US  
 > **[Fabreeko](https://www.fabreeko.com/)** – US  
-> **[KB3D](https://kb-3d.com/store/)** – US  
+> **[KB3D](https://kb-3d.com/store/)** – US
+
+Sellers offer printed parts and hardware, but if you want to self-source, follow the 
+
+Google Sheet: [BOM for the inserts and tube](https://docs.google.com/spreadsheets/d/1e-DqwyOae-bXEquKapRAvC1y_7N1JrOhuCEyz2qBfH8/edit?gid=0#gid=0)
 
 ### Special thanks
 
