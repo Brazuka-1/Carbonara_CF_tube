@@ -2,6 +2,8 @@
 
 Carbonara is a high‑endurance, high‑quality carbon fiber X beam for Voron and Monolith 3D printers, utilizing the stock build sizes of 250, 300, and 350.
 
+![Carbonara Stickers](https://i.imgur.com/Q5H2WDR.png)
+
 ## Key features:
 
 - High torsion resistance  
@@ -19,7 +21,6 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 300 | 380 | 74.5 | 181.0 | -  
 350 | 430 | 84.3 | 204.8 | -  
 
-
 ### IMPORTANT!
 
 - The printed inserts are a MUST  to ensure maximum performance. 
@@ -30,8 +31,7 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 
 ### Vendors
 
-
-
+![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
 Check if our partners have Carbonara available:
 
 > **[3DKATTEN](https://3dkatten.se/)** – Europe  
@@ -42,6 +42,23 @@ Check if our partners have Carbonara available:
 > **[West3D](https://west3d.com/)** – US  
 > **[Fabreeko](https://www.fabreeko.com/)** – US  
 > **[KB3D](https://kb-3d.com/store/)** – US  
+
+### Special thanks
+
+**Adeo**: [Ko‑Fi](https://ko-fi.com/the_adeo), [GitHub](https://github.com/TheAdeo)  
+For the amazing temperature and torsion testing  
+_(can be found in the Monolith Discord)_
+
+**CloakedWayne**: [Ko‑Fi](https://ko-fi.com/monolith), [GitHub](https://github.com/CloakedWayne)  
+For the incredible mounting inserts
+
+**Panzarkatten**: [3DKATTEN](https://3dkatten.se/), who provided the thumbnail picture
+
+**Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1)  
+Creator of the Carbonara project
+
+
+
 
 
 
