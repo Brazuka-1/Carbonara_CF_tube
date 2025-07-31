@@ -26,8 +26,9 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 - The printed inserts are a MUST  to ensure maximum performance. 
 - Make sure they are all aligned and facing the same direction.
 - The inserts must be a snug fit, not loose.
-- Hollow spacers aren't mandatory, they are only used to facilitate installation.
-- Inserts must be printed in CF/GF filament with HDT ≥ 110°C, such as, annealed PET-CF, PCPBTGF, etc.
+- Hollow spacers aren't mandatory; they are only used to facilitate installation.
+- Inserts must be printed in CF/GF filament with HDT ≥ 110°C, such as annealed PET-CF, PCPBTGF, etc.
+- The indented part of the printed inserts is meant to face the linear rail (see image below or consult CAD).
 
 ![Insert](https://media.printables.com//media/prints/1327701/rich_content/ffe58755-4667-4502-9c28-17a57cd5abeb/thumbs/inside/1920x1440/png/image.webp)
 
