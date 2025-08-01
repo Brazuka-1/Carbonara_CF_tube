@@ -37,7 +37,7 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 Check if our partners have Carbonara available:
 
 > **[3DKATTEN](https://3dkatten.se/)** – Europe  
-> **[Zen3D](https://shop.zen3d.hu/)** – Europe  
+> **[Zen3D](https://shop.zen3d.eu/carbonara-cf-tube-300)** – Europe  
 > **[JB3D](https://jb3d.uk/)** – UK  
 > **[3DLabTech](https://www.3dlabtech.ca/)** – Canada  
 > **[DREMC](https://store.dremc.com.au/)** – Australia  
