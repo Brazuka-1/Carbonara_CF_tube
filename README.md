@@ -36,13 +36,13 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 
 Check if our partners have Carbonara available:
 
-> **[3DKATTEN](https://3dkatten.se/)** – Europe  
-> **[Zen3D](https://shop.zen3d.hu/)** – Europe  
-> **[JB3D](https://jb3d.uk/)** – UK  
+> **[3DKATTEN](https://3dkatten.se/products/carbonara-cf-x-beam)** – Europe  
+> **[Zen3D](https://shop.zen3d.eu/carbonara-cf-tube-300/)** – Europe  
+> **[JB3D](https://jb3d.uk/product/carbonara/?v=fc9fdf084e29)** – UK  
 > **[3DLabTech](https://www.3dlabtech.ca/)** – Canada  
-> **[DREMC](https://store.dremc.com.au/)** – Australia  
-> **[West3D](https://west3d.com/)** – US  
-> **[Fabreeko](https://www.fabreeko.com/)** – US  
+> **[DREMC](https://store.dremc.com.au/products/carbonara-cf-x-beam)** – Australia  
+> **[West3D](https://west3d.com/products/carbonara-carbon-fiber-x-beam-for-voron-3d-printers?srsltid=AfmBOoqCy7DzMq4AHtVxwl9D9WMFO4YZi_Jh0EWWLZ-d9X35jXlhmam)** – US  
+> **[Fabreeko](https://www.fabreeko.com/products/carbonara-cf-tube-for-voron-printers?srsltid=AfmBOooKabgaAa829SZrhnx7E3dHrpL2ePjGqgJ2UV8N00DZoppafWxE)** – US  
 > **[KB3D](https://kb-3d.com/store/)** – US
 
 Sellers offer printed parts and hardware, but if you want to self-source, follow the 
