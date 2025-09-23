@@ -1,3 +1,15 @@
+# New BOM beta
+
+Added new beta folders that will soon transition to release when tested, it should be working fine
+
+- New M5 inserts to use aluminium standoffs, added new standoff stop to make sure the standoff is centered perfectly
+
+- New Voron 6mm XY joints, added oblong holes for M5 just like Monolith, just a little QOL
+
+- CAD updated to reflect all changes
+
+- STL files updated to reflect all changes
+
 # Carbonara lightweight CF tube
 
 Carbonara is a high‑endurance, high‑quality carbon fiber X beam for Voron and Monolith 3D printers, utilizing the stock build sizes of 250, 300, and 350.
