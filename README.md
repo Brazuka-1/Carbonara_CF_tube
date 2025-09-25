@@ -1,3 +1,18 @@
+# New BOM beta
+
+Added new beta folders that will soon transition to release when tested, it should be working fine
+
+- New M5 inserts to use aluminium standoffs, added new standoff stop to make sure the standoff is centered perfectly
+
+- New Voron 6mm XY joints, added oblong holes for M5 just like Monolith, just a little QOL
+
+- CAD updated to reflect all changes
+
+- STL files updated to reflect all changes
+
+Added new Google Sheets page with the new aluminium hex standoff link.
+
+
 # Carbonara lightweight CF tube
 
 Carbonara is a high‑endurance, high‑quality carbon fiber X beam for Voron and Monolith 3D printers, utilizing the stock build sizes of 250, 300, and 350.
@@ -26,22 +41,28 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 - The printed inserts are a MUST  to ensure maximum performance. 
 - Make sure they are all aligned and facing the same direction.
 - The inserts must be a snug fit, not loose.
-- Hollow spacers aren't mandatory, they are only used to facilitate installation.
-- Inserts must be printed in CF/GF filament with HDT ≥ 110°C, such as, annealed PET-CF, PCPBTGF, etc.
+- Hollow spacers aren't mandatory; they are only used to facilitate installation.
+- Inserts must be printed in CF/GF filament with HDT ≥ 110°C, such as annealed PET-CF, PCPBTGF, etc.
+- The indented part of the printed inserts is meant to face the linear rail (see image below or consult CAD).
+
+![Insert](https://media.printables.com//media/prints/1327701/rich_content/ffe58755-4667-4502-9c28-17a57cd5abeb/thumbs/inside/1920x1440/png/image.webp)
 
 ### Vendors
 
-![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
 Check if our partners have Carbonara available:
 
-> **[3DKATTEN](https://3dkatten.se/)** – Europe  
-> **[Zen3D](https://shop.zen3d.hu/)** – Europe  
-> **[JB3D](https://jb3d.uk/)** – UK  
+> **[3DKATTEN](https://3dkatten.se/products/carbonara-cf-x-beam)** – Europe  
+> **[Zen3D](https://shop.zen3d.eu/carbonara-cf-tube-300/)** – Europe  
+> **[JB3D](https://jb3d.uk/product/carbonara/?v=fc9fdf084e29)** – UK  
 > **[3DLabTech](https://www.3dlabtech.ca/)** – Canada  
-> **[DREMC](https://store.dremc.com.au/)** – Australia  
-> **[West3D](https://west3d.com/)** – US  
-> **[Fabreeko](https://www.fabreeko.com/)** – US  
-> **[KB3D](https://kb-3d.com/store/)** – US  
+> **[DREMC](https://store.dremc.com.au/products/carbonara-cf-x-beam)** – Australia  
+> **[West3D](https://west3d.com/products/carbonara-carbon-fiber-x-beam-for-voron-3d-printers?srsltid=AfmBOoqCy7DzMq4AHtVxwl9D9WMFO4YZi_Jh0EWWLZ-d9X35jXlhmam)** – US  
+> **[Fabreeko](https://www.fabreeko.com/products/carbonara-cf-tube-for-voron-printers?srsltid=AfmBOooKabgaAa829SZrhnx7E3dHrpL2ePjGqgJ2UV8N00DZoppafWxE)** – US  
+> **[KB3D](https://kb-3d.com/store/)** – US
+
+Sellers offer printed parts and hardware, but if you want to self-source, follow the 
+
+Google Sheet: [BOM for the inserts and tube](https://docs.google.com/spreadsheets/d/1e-DqwyOae-bXEquKapRAvC1y_7N1JrOhuCEyz2qBfH8/edit?gid=0#gid=0)
 
 ### Special thanks
 
@@ -54,8 +75,10 @@ For the incredible mounting inserts
 
 **Panzarkatten**: [3DKATTEN](https://3dkatten.se/), who provided the thumbnail picture
 
-**Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1)  
+**Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1), [Printables](https://www.printables.com/model/1327701-carbonara-lightweight-cf-tube)  
 Creator of the Carbonara project
+
+![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
 
 
 
