@@ -4,7 +4,7 @@ Added new beta folders that will soon transition to release when tested, it shou
 
 - New M5 inserts to use aluminium standoffs, added new standoff stop to make sure the standoff is centered perfectly
 
-- New Voron 6mm XY joints, added oblong holes for M5 just like Monolith, just a little QOL
+- New Voron 6mm XY joints, added oblong holes for M5 just like Monolith, just a little QOL (thanks to DWTas for the idea 🥝)
 
 - CAD updated to reflect all changes
 
