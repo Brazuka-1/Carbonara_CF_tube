@@ -77,7 +77,8 @@ _(can be found in the Monolith Discord)_
 **CloakedWayne**: [Ko‑Fi](https://ko-fi.com/monolith), [GitHub](https://github.com/CloakedWayne)  
 For the incredible mounting inserts
 
-**Panzarkatten**: [3DKATTEN](https://3dkatten.se/), who provided the thumbnail picture
+**Panzarkatten**: [3DKATTEN](https://3dkatten.se/), 
+Who provided the thumbnail picture
 
 **Zen3D**: [Zen3D](https://shop.zen3d.hu/)  
 For hosting the Gantry Updates site
