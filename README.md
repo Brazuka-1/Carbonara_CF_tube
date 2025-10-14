@@ -79,7 +79,7 @@ For the incredible mounting inserts
 
 **Panzarkatten**: [3DKATTEN](https://3dkatten.se/), who provided the thumbnail picture
 
-**Zen3D**: [Store](https://shop.zen3d.hu/)  
+**Zen3D**: [Zen3D](https://shop.zen3d.hu/)  
 For hosting the Gantry Updates site
 
 **Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1), [Printables](https://www.printables.com/model/1327701-carbonara-lightweight-cf-tube)  
