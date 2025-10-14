@@ -2,7 +2,7 @@
 
 Added new beta folders that will soon transition to release when tested, it should be working fine
 
-- New M5 inserts to use aluminium standoffs, added new standoff stop to make sure the standoff is centered perfectly
+- New M5 inserts to use aluminium standoffs, added a new standoff stop to make sure the standoff is centered perfectly
 
 - New Voron 6mm XY joints, added oblong holes for M5 just like Monolith, just a little QOL (thanks to DWTas for the idea 🥝)
 
@@ -10,7 +10,7 @@ Added new beta folders that will soon transition to release when tested, it shou
 
 - STL files updated to reflect all changes
 
-Added new Google Sheets page with the new aluminium hex standoff link.
+Added a new Google Sheets page with the new aluminium hex standoff link.
 
 
 # Carbonara lightweight CF tube
@@ -22,11 +22,14 @@ Carbonara is a high‑endurance, high‑quality carbon fiber X beam for Voron an
 ## Key features:
 
 - High torsion resistance  
-- Made with high‑temperature resin. 110 °C short‑term temperature resistance, good for 90 °C chamber.  
+- Made with high‑temperature resin. 110 °C short‑term temperature resistance, good for a 90 °C chamber.  
 - Ultra light, up to 58 % weight reduction from a standard 2020 aluminum extrusion (before hardware and inserts).  
 - Smooth 3K carbon strand finish  
 - Pre‑drilled, easy installation  
-- Unbeatable price/performance  
+- Unbeatable price/performance
+- Real-world prototype testing results:  
+  • [Test log 1 - Compression and temperature](https://monolith-gantry-updates.zen3d.eu/carbon-fiber-x-beam-prototype-testing/)  
+  • [Test log 2 - Torsion and temperature](https://monolith-gantry-updates.zen3d.eu/carbonara-x-beam-prototype-testing-2/)
 
 Tested for 800 hours at VERY high speeds: 500‑1300 mm/s @ 50,000‑100,000 m/s² with 80 °C chamber.
 
@@ -35,6 +38,7 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 250 | 330 | 64.7 | 157.1 | 58.8 %  
 300 | 380 | 74.5 | 181.0 | -  
 350 | 430 | 84.3 | 204.8 | -  
+
 
 ### IMPORTANT!
 
@@ -67,13 +71,16 @@ Google Sheet: [BOM for the inserts and tube](https://docs.google.com/spreadsheet
 ### Special thanks
 
 **Adeo**: [Ko‑Fi](https://ko-fi.com/the_adeo), [GitHub](https://github.com/TheAdeo)  
-For the amazing temperature and torsion testing  
+For the amazing temperature, compression, and torsion testing  
 _(can be found in the Monolith Discord)_
 
 **CloakedWayne**: [Ko‑Fi](https://ko-fi.com/monolith), [GitHub](https://github.com/CloakedWayne)  
 For the incredible mounting inserts
 
 **Panzarkatten**: [3DKATTEN](https://3dkatten.se/), who provided the thumbnail picture
+
+**Zen3D**: [Store](https://shop.zen3d.hu/)  
+For hosting the Gantry Updates site
 
 **Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1), [Printables](https://www.printables.com/model/1327701-carbonara-lightweight-cf-tube)  
 Creator of the Carbonara project
