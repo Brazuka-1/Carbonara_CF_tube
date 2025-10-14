@@ -70,23 +70,24 @@ Google Sheet: [BOM for the inserts and tube](https://docs.google.com/spreadsheet
 
 ### Special thanks
 
-**Adeo**: [Ko‑Fi](https://ko-fi.com/the_adeo), [GitHub](https://github.com/TheAdeo)  
+**Adeo**: [Ko-Fi](https://ko-fi.com/the_adeo), [GitHub](https://github.com/TheAdeo)  
 For the amazing temperature, compression, and torsion testing  
 _(can be found in the Monolith Discord)_
 
-**CloakedWayne**: [Ko‑Fi](https://ko-fi.com/monolith), [GitHub](https://github.com/CloakedWayne)  
+**CloakedWayne**: [Ko-Fi](https://ko-fi.com/monolith), [GitHub](https://github.com/CloakedWayne)  
 For the incredible mounting inserts
 
-**Panzarkatten**: [3DKATTEN](https://3dkatten.se/) 
+**Panzarkatten**: [3DKATTEN](https://3dkatten.se/)  
 Who provided the thumbnail picture
 
 **Zen3D**: [Zen3D](https://shop.zen3d.hu/)  
 For hosting the Gantry Updates site
 
-**Brazuka**: [Ko‑Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1), [Printables](https://www.printables.com/model/1327701-carbonara-lightweight-cf-tube)  
+**Brazuka**: [Ko-Fi](https://ko-fi.com/Brazuka), [GitHub](https://github.com/Brazuka-1), [Printables](https://www.printables.com/model/1327701-carbonara-lightweight-cf-tube)  
 Creator of the Carbonara project
 
 ![Carbonara Logo](https://i.imgur.com/S3z5tVU.png)
+
 
 
 
