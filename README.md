@@ -63,6 +63,7 @@ Check if our partners have Carbonara available:
 > **[West3D](https://west3d.com/products/carbonara-carbon-fiber-x-beam-for-voron-3d-printers?srsltid=AfmBOoqCy7DzMq4AHtVxwl9D9WMFO4YZi_Jh0EWWLZ-d9X35jXlhmam)** – US  
 > **[Fabreeko](https://www.fabreeko.com/products/carbonara-cf-tube-for-voron-printers?srsltid=AfmBOooKabgaAa829SZrhnx7E3dHrpL2ePjGqgJ2UV8N00DZoppafWxE)** – US  
 > **[KB3D](https://kb-3d.com/store/)** – US
+> **[Diodeking Supply](https://diodekingsupply.com/products/carbonara-cf-x-beam?variant=43235379576950)** – US  
 
 Sellers offer printed parts and hardware, but if you want to self-source, follow the 
 
