@@ -55,19 +55,31 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 
 Check if our partners have Carbonara available:
 
-> **[3DKATTEN](https://3dkatten.se/products/carbonara-cf-x-beam)** – Europe  
-> **[Zen3D](https://shop.zen3d.eu/carbonara-cf-tube-300/)** – Europe  
-> **[JB3D](https://jb3d.uk/product/carbonara/?v=fc9fdf084e29)** – UK  
-> **[3DLabTech](https://www.3dlabtech.ca/)** – Canada  
-> **[DREMC](https://store.dremc.com.au/products/carbonara-cf-x-beam)** – Australia  
-> **[West3D](https://west3d.com/products/carbonara-carbon-fiber-x-beam-for-voron-3d-printers?srsltid=AfmBOoqCy7DzMq4AHtVxwl9D9WMFO4YZi_Jh0EWWLZ-d9X35jXlhmam)** – US  
-> **[Fabreeko](https://www.fabreeko.com/products/carbonara-cf-tube-for-voron-printers?srsltid=AfmBOooKabgaAa829SZrhnx7E3dHrpL2ePjGqgJ2UV8N00DZoppafWxE)** – US  
-> **[KB3D](https://kb-3d.com/store/)** – US
-> **[Diodeking Supply](https://diodekingsupply.com/products/carbonara-cf-x-beam?variant=43235379576950)** – US  
+## Check if our partners have Carbonara available:
 
+### Europe
+- [3DKATTEN](https://3dkatten.se/products/carbonara-cf-x-beam)
+- [Zen3D](https://shop.zen3d.eu/carbonara-cf-tube-300/)
+
+### UK
+- [JB3D](https://jb3d.uk/product/carbonara/?v=fc9fdf084e29)
+
+### Canada
+- [3DLabTech](https://www.3dlabtech.ca/)
+
+### Australia
+- [DREMC](https://store.dremc.com.au/products/carbonara-cf-x-beam)
+
+### United States
+- [West3D](https://west3d.com/products/carbonara-carbon-fiber-x-beam-for-voron-3d-printers)
+- [Fabreeko](https://www.fabreeko.com/products/carbonara-cf-tube-for-voron-printers)
+- [KB3D](https://kb-3d.com/store/)
+- [Diodeking Supply](https://diodekingsupply.com/products/carbonara-cf-x-beam)
+
+
+### Important
 Sellers offer printed parts and hardware, but if you want to self-source, follow the 
-
-Google Sheet: [BOM for the inserts and tube](https://docs.google.com/spreadsheets/d/1e-DqwyOae-bXEquKapRAvC1y_7N1JrOhuCEyz2qBfH8/edit?gid=0#gid=0)
+ Google Sheet: [BOM for the inserts and tube](https://docs.google.com/spreadsheets/d/1e-DqwyOae-bXEquKapRAvC1y_7N1JrOhuCEyz2qBfH8/edit?gid=0#gid=0)
 
 ### Special thanks
 
