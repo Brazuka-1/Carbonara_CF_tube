@@ -52,10 +52,7 @@ Printer Build Size (mm) | X Gantry Length (mm) | Carbonara Weight (g) | 2020 ext
 ![Insert](https://media.printables.com//media/prints/1327701/rich_content/ffe58755-4667-4502-9c28-17a57cd5abeb/thumbs/inside/1920x1440/png/image.webp)
 
 ### Vendors
-
-Check if our partners have Carbonara available:
-
-## Check if our partners have Carbonara available:
+Check your local store for availability:
 
 ### Europe
 - [3DKATTEN](https://3dkatten.se/products/carbonara-cf-x-beam)
